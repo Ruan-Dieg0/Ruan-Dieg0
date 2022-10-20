@@ -18,4 +18,4 @@ I take computer engineering and these are some technologies that I work with ðŸ˜
 <a href="https://www.linkedin.com/in/ruan-diego-farias-b6a4a7230/" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
 
-
+![Snake animation](https://github.com/Ruan-Dieg0)
