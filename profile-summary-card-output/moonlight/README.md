@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/Ruan-Dieg0/Ruan-Dieg0/main/profile-summary-card-output/moonlight/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
